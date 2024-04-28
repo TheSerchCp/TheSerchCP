@@ -1,5 +1,5 @@
-# Sergio Cortes 👋 ## Técnico en Informática
-## TSU en Desarrollo de Software Multiplataforma | ## Ingeniero en Desarrollo y Gestión de Software
+# Sergio Cortes # 👋 ## Técnico en Informática ##
+> TSU en Desarrollo de Software Multiplataforma | Ingeniero en Desarrollo y Gestión de Software
 
 <!--
 **TheSerchCp/TheSerchCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
